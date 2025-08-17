@@ -61,6 +61,3 @@ Feel free to fork and play around.
 MIT — do whatever, just don’t blame me if you ragequit after 6 fails 😉
 
 ```
-
-Chcesz żebym dorzuciła jeszcze gotowy **words.txt** (np. ze 100 popularnych słów), żeby repo od razu miało custom wordlist?
-```
