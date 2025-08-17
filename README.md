@@ -1,4 +1,3 @@
-````markdown
 # wordle-terminal 🎮
 
 Tiny Wordle clone for your terminal — zero deps, pure Python.  
@@ -44,9 +43,6 @@ Stats + streaks are tracked automatically.
 ⬛⬛⬛🟩🟩
 🟩🟩🟩🟩🟩
 ```
-
-`Wordle-T Daily 2025-08-17 5/6`
-
 ---
 
 ## 🔧 Contribute
