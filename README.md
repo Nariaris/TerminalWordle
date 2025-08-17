@@ -55,5 +55,3 @@ Feel free to fork and play around.
 ## 📄 License
 
 MIT — do whatever, just don’t blame me if you ragequit after 6 fails 😉
-
-```
